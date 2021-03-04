@@ -14,7 +14,7 @@ I'm Coral Guillot. I'm a web developer. Welcome to my page!
 ## Skills
 I have great skill creating user interfaces, because I have a great imagination.
 
-#### This Skill
+#### This Skill.
 
 - Studies
 - Achievements
